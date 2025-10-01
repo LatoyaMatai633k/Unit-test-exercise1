@@ -1,5 +1,5 @@
 import unittest
-from main import factorial, fibonacci, fizzbuzz   # import functions from your main file
+from main import factorial, fibonacci, fizzbuzz  
 
 class TestMyFunctions(unittest.TestCase):
     """Tests for factorial, fibonacci and fizzbuzz."""
